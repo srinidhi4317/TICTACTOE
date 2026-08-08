@@ -9,8 +9,6 @@ Automatic win/draw checking
 
 Clear board display after every turn
 
-Replay option (if you added it)
-
 Lightweight, beginner‑friendly code structure
 
 🧠 Concepts Used
